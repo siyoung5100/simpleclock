@@ -1,0 +1,11 @@
+*{
+    background-color: #243665;
+    color: #8BD8BD;
+}
+.js-clock{
+    text-align: center;
+    vertical-align: middle;
+    font-family: "AppleSDGothicNeoH00", sans-serif;
+    font-size: 4rem;
+    line-height: 850px;
+}
